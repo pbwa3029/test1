@@ -1,2 +1,2 @@
 # test1
-this is or lerning
+this is for lerning
